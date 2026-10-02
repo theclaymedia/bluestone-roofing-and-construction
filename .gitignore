@@ -1,0 +1,10 @@
+# Source footage for the hero video (large, licensed stock). The web-ready
+# version lives in assets/video/.
+assets/*.mov
+
+# Internal project notes
+notes.txt
+
+# Local tooling
+.claude/
+.DS_Store
